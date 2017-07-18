@@ -3,6 +3,7 @@
 ''' 
 	author		: guotanxiang
 	datetime	: 20170525
+	dec		: 爬去想看的图片	
 '''
 # 加载所需库
 import re
